@@ -1,5 +1,7 @@
 # DeepSeek AI Chat with Ollama
 
+Note: Deepseek_clean.py removes the reasoning text when saving.
+
 This project queries the **DeepSeek AI** model using **Ollama**, processes the responses by cleaning unwanted text, and saves the results in a CSV file.
 
 ## Features
